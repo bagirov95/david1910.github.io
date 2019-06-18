@@ -57,10 +57,10 @@ h1{
     color:black;
     text-align: center;
     margin-left: -270px;
-    
+    font-size:initial;
 }
 body{
-    background: url('images/166689.jpg')fixed;
+    background: url('images/1111111.jpg')fixed;
     background-size: cover;
 }
 .outline {
