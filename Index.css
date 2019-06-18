@@ -57,6 +57,7 @@ h1{
     color:black;
     text-align: center;
     margin-left: -270px;
+    
 }
 body{
     background: url('images/166689.jpg')fixed;
@@ -121,5 +122,6 @@ body{
 h1{
   margin: auto;
   text-align:center;
+    font-size:initial;
 }
 
