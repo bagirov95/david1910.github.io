@@ -59,6 +59,7 @@ h1{
     text-align: center;
     margin-left: 210px;
     width: 700px;
+    font-size: 2em;
     }
 body {
      font-family: Arial;
@@ -263,7 +264,7 @@ body {
     .phone{
         margin: auto;
         float: right;
-	    width:auto;
+	width:auto;
     }
     #top_menu{
       text-align: center;
