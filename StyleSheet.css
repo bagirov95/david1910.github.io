@@ -262,6 +262,7 @@ body {
     .phone{
         margin: auto;
         float: right;
+	    width:auto;
     }
     #top_menu{
       text-align: center;
@@ -294,6 +295,7 @@ text-align: left;
       }
 h1{
   margin: auto;
+	width:auto;
 }
 .float-right{
   margin:auto;
