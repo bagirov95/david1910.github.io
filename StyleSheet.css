@@ -57,7 +57,8 @@ h1{
     margin:auto;
     color:black;
     text-align: center;
-    margin-left: -240px;
+    margin-left: 240px;
+    width: 700px;
     }
 body {
      font-family: Arial;
