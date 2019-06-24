@@ -56,7 +56,9 @@ h1{
     margin:auto;
     color:black;
     text-align: center;
-    margin-left: -270px;
+    margin-left: 210px;
+    width: 700px;
+    font-size: 2em;
     }
 body{
     background: url('images/166689.jpg')fixed;
