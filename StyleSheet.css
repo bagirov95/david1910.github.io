@@ -51,7 +51,7 @@ margin-top: 10px;
     margin:auto;
     margin-top: -50px;
     margin-left: 650px;
-    width:100px;
+    width:200px;
 }
 
 h1{
@@ -59,8 +59,7 @@ h1{
     color:black;
     text-align: center;
     margin-left: -240px;
-    font-size: 30px;
-    }
+  }
 body {
      font-family: Arial;
      margin: 0;
