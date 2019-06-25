@@ -53,12 +53,11 @@ margin-top: 10px;
 }
 
 h1{margin:auto;
+   margin:auto;
     color:black;
     text-align: center;
-    margin-left: 210px;
-    width: 700px;
-    font-size: 2em;
-   }
+    margin-right: 210px;
+    }
 body{
      background: url('images/1111111.jpg')fixed;
      background-size: cover;
