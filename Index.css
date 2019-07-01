@@ -44,13 +44,14 @@ margin-top: 10px;
 .phone {
     color: blue;
     font-size: 25px;
-    white-space: pre;
     display: block;
+    white-space: pre;
     text-align: center;
     padding: 10px;
     margin:auto;
     margin-top: -55px;
     margin-left: 655px;
+   
 }
 
 h1{
