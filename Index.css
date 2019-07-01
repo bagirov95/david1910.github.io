@@ -42,14 +42,15 @@ margin-right: 650px;
 margin-top: 10px;
    }
 .phone {
-  color: blue;
-    font-size: 20px;
+    color: blue;
+    font-size: 25px;
+    white-space: pre;
     display: block;
     text-align: center;
     padding: 10px;
     margin:auto;
     margin-top: -55px;
-    margin-right: -655px;
+    margin-right: 655px;
 }
 
 h1{
