@@ -45,6 +45,7 @@ margin-top: 10px;
      color: blue;
     font-size: 25px;
     display: block;
+    white-space: pre;
     text-align: center;
     padding: 10px;
     margin:auto;
