@@ -200,7 +200,7 @@ body {
             }
             .dot{
                 cursor:pointer;
-                position:absolute;
+                position:relative;
                 top:-30px;
                 height: 15px;
                 width: 15px;
