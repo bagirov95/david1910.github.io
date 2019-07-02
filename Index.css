@@ -85,7 +85,7 @@ body{
                 text-align: center;
                 margin: auto;
                 position: relative;
-                top: -15px;
+                bottom:15px;
                 border-bottom: 1px solid royalblue;
                 border-bottom-width: 30px;
                 border-bottom-left-radius: 25px;
