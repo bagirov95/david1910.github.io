@@ -84,7 +84,8 @@ body{
                 display: block;
                 text-align: center;
                 margin: auto;
-                margin-top: -15px;
+                position: relative;
+                top: -15px;
                 border-bottom: 1px solid royalblue;
                 border-bottom-width: 30px;
                 border-bottom-left-radius: 25px;
