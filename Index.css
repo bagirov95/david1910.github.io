@@ -62,7 +62,7 @@ h1{
     margin-right: 210px;
     }
 body{
-    background: url('images/1111111.jpg')fixed;
+    background: url('images/1111199.jpg')fixed;
     background-size: cover;
     margin: auto;
 }
@@ -81,11 +81,11 @@ body{
             border-bottom-color: royalblue;
         }
 .header_img {
-                display: block;
+               
                 text-align: center;
                 margin: auto;
                 position: relative;
-                top: -15px;
+                bottom:15px;
                 border-bottom: 1px solid royalblue;
                 border-bottom-width: 30px;
                 border-bottom-left-radius: 25px;
