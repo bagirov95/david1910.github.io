@@ -88,6 +88,7 @@ body{
                 border-bottom-left-radius: 25px;
                 border-bottom-right-radius: 25px;
                 width: 940px;
+      transform: scale(20);
               }
 .float-right{
   float: right;
