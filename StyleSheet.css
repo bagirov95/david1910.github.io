@@ -201,7 +201,7 @@ body {
             .dot{
                 cursor:pointer;
                 position:relative;
-                top:-30px;
+                bottom:30px;
                 height: 15px;
                 width: 15px;
                 margin: 0 2px;
