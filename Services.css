@@ -60,7 +60,7 @@ h1{margin:auto;
     margin-right: 210px;
     }
 body{
-     background: url('images/Whitebre.jpg')fixed;
+     background: url('images/166689.jpg')fixed;
      background-size: cover;
 }
 .outline {
@@ -80,7 +80,7 @@ body{
 .header_img {
                 margin:auto;
                 position:relative;
-                bottom:15px;
+                top:-15px;
                 display: block;
                 text-align: center;
                 border-bottom: 1px solid royalblue;
