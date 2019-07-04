@@ -81,10 +81,10 @@ body{
             border-bottom-color: royalblue;
         }
 .header_img {
-               
+                white-space: nowrap;
                 text-align: center;
                 margin: auto;
-    margin-top:-15px;
+                margin-top:-15px;
                 position: relative;
                 bottom:15px;
                 border-bottom: 1px solid royalblue;
@@ -92,7 +92,7 @@ body{
                 border-bottom-left-radius: 25px;
                 border-bottom-right-radius: 25px;
                 width: 940px;
- 
+                
               }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 765px){
