@@ -62,7 +62,7 @@ h1{
     margin-right: 210px;
     }
 body{
-    background: url('images/1111199.jpg')fixed;
+    background: url('images/166689.jpg')fixed;
     background-size: cover;
     margin: auto;
 }
@@ -84,6 +84,7 @@ body{
                
                 text-align: center;
                 margin: auto;
+    margin-top:-15px;
                 position: relative;
                 bottom:15px;
                 border-bottom: 1px solid royalblue;
