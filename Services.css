@@ -9,9 +9,7 @@
     border-top-right-radius:25px;
     display: block;
     text-align: center;
-     position: relative;
-    bottom:-15px;
-   }
+    }
 a{
     text-decoration: none;
     color:#ffdab6;
@@ -62,7 +60,7 @@ h1{margin:auto;
     margin-right: 210px;
     }
 body{
-     background: url('images/1111111.jpg')fixed;
+     background: url('images/1111199.jpg')fixed;
      background-size: cover;
 }
 .outline {
@@ -81,6 +79,7 @@ body{
         }
 .header_img {
                 margin:auto;
+                margin-top:-15px;
                 display: block;
                 text-align: center;
                 border-bottom: 1px solid royalblue;
@@ -88,7 +87,7 @@ body{
                 border-bottom-left-radius: 25px;
                 border-bottom-right-radius: 25px;
                 width: 940px;
-                white-space: nowrap;
+                line-height: 10px;
               }
 .float-right{
   float: right;
