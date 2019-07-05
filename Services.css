@@ -9,6 +9,7 @@
     border-top-right-radius:25px;
     display: block;
     text-align: center;
+    margin-bottom:-15px;
    }
 a{
     text-decoration: none;
@@ -60,7 +61,7 @@ h1{margin:auto;
     margin-right: 210px;
     }
 body{
-     background: url('images/166689.jpg')fixed;
+     background: url('images/1111199.jpg')fixed;
      background-size: cover;
 }
 .outline {
@@ -79,8 +80,6 @@ body{
         }
 .header_img {
                 margin:auto;
-                position:relative;
-                top:-15px;
                 display: block;
                 text-align: center;
                 border-bottom: 1px solid royalblue;
