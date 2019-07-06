@@ -80,7 +80,7 @@ body{
 .header_img {
                 margin:auto;
                 margin-top:-15px;
-                display: block;
+                display: inline-block;
                 text-align: center;
                 border-bottom: 1px solid royalblue;
                 border-bottom-width: 30px;
