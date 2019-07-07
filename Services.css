@@ -80,14 +80,14 @@ body{
 .header_img {
                 margin:auto;
                 margin-top:-15px;
-                display: inline-block;
+                display:block;
                 text-align: center;
                 border-bottom: 1px solid royalblue;
                 border-bottom-width: 30px;
                 border-bottom-left-radius: 25px;
                 border-bottom-right-radius: 25px;
                 width: 940px;
-                line-height: 10px;
+                line-height: 1px;
     
               }
 .float-right{
