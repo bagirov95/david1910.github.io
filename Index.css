@@ -54,11 +54,11 @@ margin-top: 10px;
     margin-left: 650px;
 }
 h1{
-    margin:auto;
+   margin:auto;
     color:black;
     text-align: center;
-    margin-left: -270px;
-}
+    margin-right: 210px;
+    }
 body{
      background: url('images/1111111.jpg')fixed;
      background-size: cover;
