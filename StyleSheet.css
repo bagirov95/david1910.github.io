@@ -189,15 +189,19 @@ body {
                 width:942px;
                 margin-top: -16px;
             }
-            .row{
-                margin:auto;
+             .outlane{
+    white-space: nowrap;
+    text-align: center;
+    margin:auto;
+   display: block;
                 border-bottom: 1px solid royalblue;
                 border-bottom-width: 30px;
-                border-bottom-left-radius: 15px;
-                border-bottom-right-radius: 15px;
-                width:940px;
-                
-            }
+                border-bottom-left-radius: 25px;
+                border-bottom-right-radius: 25px;
+                width: 940px;
+    line-height: 18px;
+    margin-top:25px;
+}
             .dot{
                 cursor:pointer;
                 position:relative;
