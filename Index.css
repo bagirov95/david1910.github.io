@@ -63,7 +63,7 @@ h1{
     margin-right: 210px;
     }
 body{
-    background: url('images/166689.jpg')fixed;
+    background: url('images/1111111.jpg')fixed;
     background-size: cover;
     margin: auto;
 }
@@ -85,13 +85,12 @@ body{
     white-space: nowrap;
     text-align: center;
     margin:auto;
-                
-                display: block;
-                border-bottom: 1px solid royalblue;
-                border-bottom-width: 30px;
-                border-bottom-left-radius: 25px;
-                border-bottom-right-radius: 25px;
-                width: 940px;
+    display: block;
+    border-bottom: 1px solid royalblue;
+    border-bottom-width: 30px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    width: 940px;
     line-height: 2px;
     margin-top:25px;
 }
