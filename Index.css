@@ -9,6 +9,7 @@
     border-top-right-radius:25px;
     display: block;
     text-align: center;
+    line-height: 1;
    }
 a{
     text-decoration: none;
